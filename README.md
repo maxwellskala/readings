@@ -15,6 +15,7 @@ A list of articles I feel are worth having around for multiple readings. Organiz
 * [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8) (Scott Domes)
 * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) (Andrew Clark) [note: has not been updated since October 2016 as near as I can tell]
 * [Tips to learn React + Redux in 2017](https://www.robinwieruch.de/tips-to-learn-react-redux/) (Robin Wieruch)
+* [The Right Way to Test React Components](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22) (Stephen Scott)
 
 # Node
 * [Beautiful Node APIs](https://medium.com/software-engineering/beautiful-node-apis-eaf0b636cbe) (Azat Mardan)
